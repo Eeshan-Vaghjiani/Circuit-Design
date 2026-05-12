@@ -20,23 +20,13 @@ PDF File:
 PDF File:  
 [series Circuit-166981.pdf](./series%20Circuit-166981.pdf)
 
-Published Project:  
-[Series Circuit](https://oshwlab.com/evaghjiani/project_dqtltmjo)
-
-
 ## 2. Parallel Circuit
 
 PDF File:  
 [Parallel Circuit-166981.pdf](./Parallel%20Circuit-166981.pdf)
 
-Published Project:  
-[Parallel Circuit](https://oshwlab.com/evaghjiani/project_ninkcyzx)
 
 ## 3. ESP32 with DHT22 Sensor
 
 PDF File:  
 [ESP32 & DHT22-166981.pdf](./ESP32%20%26%20DHT22-166981.pdf)
-
-Published Project:  
-[ESP32 DHT22 Project](https://oshwlab.com/evaghjiani/project_mzhdwdej)
-
